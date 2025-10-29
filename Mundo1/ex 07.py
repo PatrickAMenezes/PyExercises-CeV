@@ -1,6 +1,5 @@
 width = float(input('Wall width: '))
 hight = float(input('Wall hight: '))
 area = (hight*width)
-print('The quantity of ink necessary to paint the wall, that measures {}x{},\n'
-      'and whose area is {}m² is {:.2f}l'
-      .format(width, hight, area, area/2))
+print(f'The quantity of ink necessary to paint the wall, with measures {width}x{hight},\n'
+      f'and area of {area}m² is {area/2:.2f}l')

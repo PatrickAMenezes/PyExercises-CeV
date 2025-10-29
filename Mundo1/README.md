@@ -2,7 +2,7 @@
 This README is to explain the funcionality of each exercise.
 I made this exercises for learn python by the course of Curso Em Vídeo.
 ------------------------------------------------------------------------------------
-00) Is a welcome message to someone with a reading of the date of birth and a
+00) Is a welcome message to someone with a reading of the birth date and a
 calculation of sum between two numbers
 01) Seeing the type of something
 02) Give the predecessor and successor, the double, triple and the root of a number
